@@ -1,0 +1,5 @@
+Credentials cache: API:18036
+        Principal: gmelek@42.FR
+
+		  Issued                Expires               Principal
+		  Jul  5 14:51:15 2016  Jul 12 14:51:04 2016  krbtgt/42.FR@42.FRi
